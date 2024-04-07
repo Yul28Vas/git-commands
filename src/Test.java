@@ -1,2 +1,3 @@
-public class Test gi{
+public class Test {
+
 }
